@@ -78,7 +78,6 @@
 *.aidingmao.com
 *.sourceforge.net
 *.chinatax.gov.cn
-*.cdn-apple.com
 *.letsencrypt.org
 *.googletagmanager.com
 *.epochtimes.com
@@ -119,7 +118,6 @@
 *.wordnik.com
 *.googleusercontent.com
 *.kotlin-cn.org
-*.apple.com
 *.waylau.com
 *.xd-design.com
 *.shadowsocks.org
